@@ -105,7 +105,7 @@ export default function HeroSection() {
               <div className="space-y-6">
                 <div className="transform hover:scale-105 transition-all duration-500 hover-lift will-change-transform">
                   <Image
-                    src="/images/guava-fizz.png"
+                    src="./images/guava-fizz.png"
                     alt="Squeeze Berriez Guava Fizz - Natural Fruit Drink"
                     width={300}
                     height={400}
@@ -117,7 +117,7 @@ export default function HeroSection() {
                 </div>
                 <div className="transform hover:scale-105 transition-all duration-500 hover-lift will-change-transform">
                   <Image
-                    src="/images/ice-cream-soda.png"
+                    src="./images/ice-cream-soda.png"
                     alt="Squeeze Berriez Ice Cream Soda - Refreshing Beverage"
                     width={300}
                     height={400}
@@ -129,7 +129,7 @@ export default function HeroSection() {
               <div className="space-y-6 mt-12">
                 <div className="transform hover:scale-105 transition-all duration-500 hover-lift will-change-transform">
                   <Image
-                    src="/images/pineapple-chilli.png"
+                    src="./images/pineapple-chilli.png"
                     alt="Squeeze Berriez Pineapple Chilli - Spicy Fruit Drink"
                     width={300}
                     height={400}
@@ -139,7 +139,7 @@ export default function HeroSection() {
                 </div>
                 <div className="transform hover:scale-105 transition-all duration-500 hover-lift will-change-transform">
                   <Image
-                    src="/images/mango-fizz.png"
+                    src="./images/mango-fizz.png"
                     alt="Squeeze Berriez Mango Fizz - Tropical Fruit Beverage"
                     width={300}
                     height={400}

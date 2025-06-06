@@ -34,7 +34,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2 animate-slide-up">
                  <img 
-                src="/logo.png" 
+                src="./logo.png" 
                 alt="Squeeze Berriez Logo" 
                 className="w-8 h-8 object-contain"
                 onError={(e) => {
