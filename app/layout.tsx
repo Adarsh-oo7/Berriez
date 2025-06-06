@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     "blueberry drinks",
     "green apple juice",
   ].join(", "),
-  authors: [{ name: "Squeeze Berriez", url: "https://squeezeberriez.com" }],
+  authors: [{ name: "Squeeze Berriez", url: "https://www.squeezeberriez.in/" }],
   creator: "Squeeze Berriez",
   publisher: "Squeeze Berriez",
   formatDetection: {
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://squeezeberriez.com"),
+  metadataBase: new URL("https://www.squeezeberriez.in/"),
   alternates: {
     canonical: "/",
     languages: {
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     title: "Squeeze Berriez - Best Refreshing Drinks in Thrissur | 10 Natural Flavors",
     description:
       "🥤 Thrissur's favorite natural fruit drinks! 10 unique flavors, 300ml bottles at ₹20. Made with 100% natural ingredients. Free delivery in Thrissur. Order your favorite flavor now!",
-    url: "https://squeezeberriez.com",
+    url: "https://www.squeezeberriez.in/",
     siteName: "Squeeze Berriez",
     images: [
       {

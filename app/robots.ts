@@ -10,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/private/", "/admin/"],
     },
-    sitemap: "https://squeezeberriez.com/sitemap.xml",
+    sitemap: "https://www.squeezeberriez.in//sitemap.xml",
   }
 }
