@@ -7,7 +7,7 @@ const reviews = [
     location: "Thrissur East",
     rating: 5,
     review:
-      "Amazing taste! The Guava Fizz is my absolute favorite. Natural ingredients and perfect sweetness. My whole family loves Squeeze Berriez!",
+      "Amazing taste! The Guava Fizz is my absolute favorite. Quality ingredients and perfect sweetness. My whole family loves Squeeze Berriez!",
     avatar: "/placeholder.svg?height=60&width=60",
   },
   {
@@ -34,7 +34,7 @@ const reviews = [
     location: "Ollur",
     rating: 5,
     review:
-      "Excellent quality and taste. The Ice Cream Soda reminds me of childhood memories. Natural ingredients make it healthy too!",
+      "Excellent quality and taste. The Ice Cream Soda reminds me of childhood memories. Quality ingredients make it healthy too!",
     avatar: "/placeholder.svg?height=60&width=60",
   },
   {
@@ -43,7 +43,7 @@ const reviews = [
     location: "Thrissur West",
     rating: 5,
     review:
-      "Fresh, natural, and delicious! My kids love all the flavors. Great to have a local brand that cares about quality and health.",
+      "Fresh, Quality, and delicious! My kids love all the flavors. Great to have a local brand that cares about quality and health.",
     avatar: "/placeholder.svg?height=60&width=60",
   },
   {

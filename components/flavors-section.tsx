@@ -46,7 +46,7 @@ const flavors = [
     description: "King of fruits in a sparkling, refreshing drink",
     image: "./images/mango-fizz.png",
     color: "from-yellow-400 to-orange-500",
-    benefits: "High in Vitamin A and natural sugars",
+    benefits: "High in Vitamin A and quality sugars",
     rating: 4.9,
     reviews: 203,
     popular: true,
@@ -57,7 +57,7 @@ const flavors = [
     description: "Tangy-sweet passion fruit fizz with a tropical twist",
     image: "./passion.png?height=400&width=300",
     color: "from-yellow-300 to-pink-300",
-    benefits: "Rich in vitamin C and natural antioxidants",
+    benefits: "Rich in vitamin C and quality antioxidants",
     rating: 4.6,
     reviews: 87,
     popular: false,
@@ -128,7 +128,7 @@ export default function FlavorsSection() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Discover our collection of 10 unique and refreshing natural drink flavors, each crafted to perfection with
+            Discover our collection of 10 unique and refreshing premium drink flavors, each crafted to perfection with
             premium ingredients and authentic taste.
           </p>
         </ScrollAnimation>
@@ -171,7 +171,7 @@ export default function FlavorsSection() {
                     <div className="relative mb-6 group-hover:scale-110 transition-transform duration-300">
                       <Image
                         src={flavor.image || "/placeholder.svg"}
-                        alt={`Squeeze Berriez ${flavor.name} - Natural Fruit Drink`}
+                        alt={`Squeeze Berriez ${flavor.name} - quality Fruit Drink`}
                         width={200}
                         height={250}
                         className="w-full h-48 object-contain mx-auto animate-float"

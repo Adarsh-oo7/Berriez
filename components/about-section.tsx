@@ -11,7 +11,7 @@ export default function AboutSection() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Born in the heart of Thrissur, Kerala, Squeeze Berriez is your trusted local partner for premium natural
+            Born in the heart of Thrissur, Kerala, Squeeze Berriez is your trusted local partner for premium quality
             fruit beverages that celebrate the rich flavors of our beautiful state.
           </p>
         </div>
@@ -22,11 +22,11 @@ export default function AboutSection() {
               <h3 className="text-3xl font-bold text-gray-800">Our Mission</h3>
               <p className="text-lg text-gray-600 leading-relaxed">
                 At Squeeze Berriez, we believe that refreshment should never compromise on health. Our mission is to
-                provide the people of Thrissur and beyond with delicious, natural fruit beverages that energize your
+                provide the people of Thrissur and beyond with delicious, quality fruit beverages that energize your
                 body and delight your taste buds.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Every bottle is crafted with care, using the finest natural ingredients sourced locally whenever
+                Every bottle is crafted with care, using the finest quality ingredients sourced locally whenever
                 possible. We're proud to be a Kerala-based business that supports our local community while delivering
                 exceptional quality.
               </p>
@@ -37,8 +37,8 @@ export default function AboutSection() {
                 <div className="w-12 h-12 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Leaf className="w-6 h-6 text-white" />
                 </div>
-                <h4 className="font-bold text-gray-800 mb-2">100% Natural</h4>
-                <p className="text-sm text-gray-600">No artificial colors or preservatives</p>
+                <h4 className="font-bold text-gray-800 mb-2">100% Quality</h4>
+                <p className="text-sm text-gray-600">Every drop reflects our quality promise</p>
               </div>
               <div className="text-center p-6 bg-red-50 rounded-xl">
                 <div className="w-12 h-12 bg-red-500 rounded-full flex items-center justify-center mx-auto mb-4">

@@ -55,7 +55,7 @@ export default function HeroSection() {
             </h1>
 
             <p className="text-xl text-gray-600 leading-relaxed animate-fade-in" style={{ animationDelay: "0.3s" }}>
-              Experience the authentic taste of Kerala with our 10 unique natural fruit flavors. Made with premium
+              Experience the authentic taste of Kerala with our 10 unique quality fruit flavors. Made with premium
               ingredients, each 300ml bottle delivers pure refreshment and health benefits.
             </p>
 
@@ -106,7 +106,7 @@ export default function HeroSection() {
                 <div className="transform hover:scale-105 transition-all duration-500 hover-lift will-change-transform">
                   <Image
                     src="./images/guava-fizz.png"
-                    alt="Squeeze Berriez Guava Fizz - Natural Fruit Drink"
+                    alt="Squeeze Berriez Guava Fizz - quality Fruit Drink"
                     width={300}
                     height={400}
                     className="w-full h-auto rounded-2xl shadow-2xl animate-float"

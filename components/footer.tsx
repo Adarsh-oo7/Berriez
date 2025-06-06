@@ -18,8 +18,8 @@ export default function Footer() {
               </h3>
             </div>
             <p className="text-gray-300 leading-relaxed">
-              Thrissur's favorite natural fruit beverage brand, bringing you 10 unique flavors of refreshing drinks made
-              with premium natural ingredients.
+              Thrissur's favorite quality fruit beverage brand, bringing you 10 unique flavors of refreshing drinks made
+              with premium quality ingredients.
             </p>
             <div className="flex space-x-4">
               <a
@@ -56,8 +56,8 @@ export default function Footer() {
               <li><a href="#about" className="text-gray-300 hover:text-white">About Us</a></li>
               <li><a href="#flavors" className="text-gray-300 hover:text-white">Our Flavors</a></li>
               <li><a href="#contact" className="text-gray-300 hover:text-white">Contact</a></li>
-              <li><a href="/wholesale" className="text-gray-300 hover:text-white">Wholesale</a></li>
-              <li><a href="/bulk-orders" className="text-gray-300 hover:text-white">Bulk Orders</a></li>
+              <li><a href="/bulk-Order" className="text-gray-300 hover:text-white">Wholesale</a></li>
+              <li><a href="/bulk-Order" className="text-gray-300 hover:text-white">Bulk Orders</a></li>
             </ul>
           </div>
 
@@ -126,9 +126,9 @@ squeezeberriez@gmail.com                </a>
       </a>,TVM Kerala.
     </p>
     <div className="flex space-x-6 text-sm">
-      <a href="/privacy-policy" className="text-gray-300 hover:text-white">Privacy Policy</a>
-      <a href="/terms-of-service" className="text-gray-300 hover:text-white">Terms of Service</a>
-      <a href="/refund-policy" className="text-gray-300 hover:text-white">Refund Policy</a>
+      <a href="#" className="text-gray-300 hover:text-white">Privacy Policy</a>
+      <a href="#" className="text-gray-300 hover:text-white">Terms of Service</a>
+      <a href="#" className="text-gray-300 hover:text-white">Refund Policy</a>
     </div>
   </div>
 </div>

@@ -3,8 +3,8 @@ import { Shield, Leaf, Heart, Award, Users, Zap } from "lucide-react"
 const features = [
   {
     icon: Leaf,
-    title: "100% Natural Ingredients",
-    description: "No artificial colors, flavors, or preservatives. Pure natural goodness in every bottle.",
+    title: "100% Quality Ingredients",
+    description: "Every ingredient, including added color, is carefully chosen to meet our highest standards of quality.",
     color: "text-green-500",
   },
   {
