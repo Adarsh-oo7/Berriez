@@ -1,5 +1,8 @@
 import type { MetadataRoute } from "next"
 
+// Add this line to explicitly mark the route as static
+export const dynamic = "force-static";
+
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: "Squeeze Berriez - Best Natural Drinks in Thrissur",
