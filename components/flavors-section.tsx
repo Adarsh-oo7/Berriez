@@ -234,37 +234,7 @@ export default function FlavorsSection() {
           ))}
         </div>
 
-        <ScrollAnimation delay={400}>
-          <div className="text-center">
-            <div className="bg-white p-8 rounded-2xl shadow-lg max-w-4xl mx-auto hover-lift">
-              <div className="grid md:grid-cols-3 gap-8 mb-8">
-                <div className="text-center animate-bounce-in">
-                  <div className="text-3xl font-bold text-blue-600 mb-2">300ml</div>
-                  <div className="text-gray-600">Perfect Serving Size</div>
-                </div>
-                <div className="text-center animate-bounce-in" style={{ animationDelay: "0.2s" }}>
-                  <div className="text-3xl font-bold text-green-600 mb-2">3 Months</div>
-                  <div className="text-gray-600">Shelf Life</div>
-                </div>
-                <div className="text-center animate-bounce-in" style={{ animationDelay: "0.4s" }}>
-                  <div className="text-3xl font-bold text-purple-600 mb-2">24 Pcs</div>
-                  <div className="text-gray-600">Per Case</div>
-                </div>
-              </div>
-
-              <div className="space-y-4">
-                <h3 className="text-2xl font-bold text-gray-800">Wholesale Pricing Available</h3>
-                <p className="text-gray-600">Special rates for bulk orders: ₹13-13.5 per bottle (24 pieces per case)</p>
-                <Button
-                  size="lg"
-                  className="bg-gradient-to-r from-green-500 to-blue-500 hover:from-green-600 hover:to-blue-600 hover-lift animate-pulse-glow"
-                >
-                  Get Wholesale Pricing
-                </Button>
-              </div>
-            </div>
-          </div>
-        </ScrollAnimation>
+        
       </div>
     </section>
     
