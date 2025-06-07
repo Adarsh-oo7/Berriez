@@ -238,13 +238,13 @@ const BulkOrderPage = () => {
             <div className="text-center p-6 bg-white bg-opacity-10 rounded-xl backdrop-blur-sm hover:bg-opacity-20 transition-all duration-300">
               <Phone className="w-8 h-8 mx-auto mb-4 text-blue-300" />
               <h3 className="text-lg font-semibold mb-2">Call Us</h3>
-              <p className="opacity-90">+91 98765 43210</p>
+              <p className="opacity-90">+91 83049 05305</p>
             </div>
             
             <div className="text-center p-6 bg-white bg-opacity-10 rounded-xl backdrop-blur-sm hover:bg-opacity-20 transition-all duration-300">
               <Mail className="w-8 h-8 mx-auto mb-4 text-green-300" />
               <h3 className="text-lg font-semibold mb-2">Email Us</h3>
-              <p className="opacity-90">bulk@company.com</p>
+              <p className="opacity-90">squeezeberriez@gmail.com</p>
             </div>
             
             <div className="text-center p-6 bg-white bg-opacity-10 rounded-xl backdrop-blur-sm hover:bg-opacity-20 transition-all duration-300">
