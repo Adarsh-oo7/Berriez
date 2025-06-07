@@ -32,21 +32,21 @@ export default function Header() {
     >
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <div className="flex items-center space-x-2 animate-slide-up">
-                 <img 
-                src="./logo.png" 
-                alt="Squeeze Berriez Logo" 
-                className="w-8 h-8 object-contain"
-                onError={(e) => {
-                  e.target.style.display = 'none';
-                  e.target.nextElementSibling.style.display = 'block';
-                }}
-              />
-            
-            <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-orange-600 bg-clip-text text-transparent">
-              Squeeze Berriez
-            </h1>
-          </div>
+         <div className="flex items-center space-x-2 animate-slide-up">
+  <img 
+    src="./logo.png" 
+    alt="Squeeze Berriez Logo" 
+    className="w-8 h-8 object-contain transform hover:rotate-12 hover:scale-110 transition-all duration-300"
+    onError={(e) => {
+      e.target.style.display = 'none';
+      e.target.nextElementSibling.style.display = 'block';
+    }}
+  />
+
+  <h1 className="text-3xl font-bold bg-gradient-to-r from-yellow-400 via-yellow-300 to-yellow-500 bg-clip-text text-transparent animate-pulse hover:animate-none bg-300% animate-text-shimmer">
+    Squeeze Berriez
+  </h1>
+</div>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
