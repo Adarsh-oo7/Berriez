@@ -53,7 +53,7 @@ const flavors = [
   },
   {
     id: 5,
-    name: "Passion Fruit Frizz",
+    name: "Passion Fruit Fizz",
     description: "Tangy-sweet passion fruit fizz with a tropical twist",
     image: "./passion.png?height=400&width=300",
     color: "from-yellow-300 to-pink-300",
