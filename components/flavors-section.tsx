@@ -64,7 +64,7 @@ const flavors = [
   },
   {
     id: 6,
-    name: "Green Apple Frizz",
+    name: "Green Apple Fizz",
     description: "Crisp green apple with a zesty, refreshing taste",
     image: "./green.png?height=400&width=300",
     color: "from-green-400 to-lime-400",
@@ -75,7 +75,7 @@ const flavors = [
   },
   {
     id: 7,
-    name: "Watermelon Frizz",
+    name: "Watermelon Fizz",
     description: "Juicy watermelon for ultimate summer refreshment",
     image: "./water.png?height=400&width=300",
     color: "from-red-300 to-pink-400",
@@ -86,7 +86,7 @@ const flavors = [
   },
   {
     id: 8,
-    name: "Blueberry Frizz",
+    name: "Blueberry Fizz",
     description: "Antioxidant-rich blueberries in every sip",
     image: "./Blueberriez.jpg?height=400&width=300",
     color: "from-blue-400 to-purple-500",
