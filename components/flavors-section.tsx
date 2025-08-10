@@ -95,7 +95,52 @@ const flavors = [
     reviews: 112,
     popular: true,
   },
-]
+  {
+    id: 9,
+    name: "Orange Fizz",
+    description: "Citrusy orange with a sparkling twist",
+    image: "./orangefizz.png",
+    color: "from-orange-400 to-yellow-400",
+    benefits: "High in Vitamin C and refreshing",
+    rating: 4.7,
+    reviews: 101,
+    popular: false,
+  },
+  {
+    id: 10,
+    name: "SqueezeUp",
+    description: "A burst of mixed tropical fruits in every sip",
+    image: "./squeezeup.png",
+    color: "from-pink-400 to-orange-300",
+    benefits: "Packed with vitamins and minerals",
+    rating: 4.8,
+    reviews: 89,
+    popular: true,
+  },
+  {
+    id: 11,
+    name: "Monkey Mood",
+    description: "Banana delight with a creamy tropical finish",
+    image: "./monkeymood.png",
+    color: "from-yellow-300 to-brown-400",
+    benefits: "Potassium-rich and energy boosting",
+    rating: 4.6,
+    reviews: 77,
+    popular: false,
+  },
+  {
+    id: 12,
+    name: "Tamarind",
+    description: "Tangy-sweet tamarind for a unique refreshing taste",
+    image: "./tamarind.png",
+    color: "from-brown-400 to-orange-400",
+    benefits: "Aids digestion and rich in antioxidants",
+    rating: 4.7,
+    reviews: 85,
+    popular: false,
+  }
+];
+
 
 export default function FlavorsSection() {
   const [favorites, setFavorites] = useState<number[]>([])
